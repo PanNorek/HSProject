@@ -27,3 +27,6 @@
 - Install the dependencies using `pip install -r requirements.txt`
 - Run the application using `python main.py`
 - Run the test module using `python -m unittest`
+
+## Trello
+https://trello.com/b/fAjY16Dy/project
