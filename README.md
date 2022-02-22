@@ -4,7 +4,7 @@
 
 ## For developers
 
-- Clone repository `git clone https://github.com/PanNorek/HMProject`
+- Clone repository `git clone https://github.com/PanNorek/HSProject`
 - Change directory to `path`
 - Use Install instructions
 - Add foldername folder to `PYTHONPATH` (https://bic-berkeley.github.io/psych-214-fall-2016/using_pythonpath.html)
