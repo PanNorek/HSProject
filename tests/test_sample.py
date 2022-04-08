@@ -1,6 +1,5 @@
 import unittest
 from src.sample import Sample
-import json
 
 class SampleMethods(unittest.TestCase):
     def setUp(self):
