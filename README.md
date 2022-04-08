@@ -1,4 +1,4 @@
-# HMProject
+# HSProject
 
 ## Use free IDE for development - PYCHARM IS NOT ALLOWED
 
